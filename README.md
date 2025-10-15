@@ -79,5 +79,4 @@ python trainer.py --train --data-dir "C:\path\to\data"
 - Tesseract OCR not found: confirm Tesseract binary is installed and in PATH.
 - Long training times: reduce `n_estimators` or sample dataset for experimentation.
 
-## License
-MIT — adapt and extend as needed.
+
