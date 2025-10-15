@@ -1,0 +1,5 @@
+{
+    "RandomForest": 0.7,
+    "GradientBoosting": 0.7,
+    "SVM": 0.7
+}
